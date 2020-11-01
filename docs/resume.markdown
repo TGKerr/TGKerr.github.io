@@ -6,6 +6,7 @@ permalink: /cv/
 
 [LinkedIn Account][linkedIn]
 E-Mail Address: tommygkerr@gmail.com
+
 Skillsets
 • Java – High degree of proficiency – Understanding of usage of OOP principles, and years of experience using
 Java for areas including, networking, JDBC, basic games, and implementing a variety of data structures.
@@ -22,6 +23,7 @@ query, and update a database.
 • Working within a group – Understanding of how-to develop software alongside others, experience in minor
 conflict resolution, as well as making use of Scrum and Git to manage the development process.
 • Full Driver’s Licence
+
 Education
 • Lesmahagow High School:
 o 2015/16 - Three A’s at Advanced Higher – English, Mathematics, and Physics.
@@ -34,6 +36,7 @@ Internet & the Web, Data Encoding, Databases, Operating Systems, Security & Dist
 Awards & Achievements
 • 2016/17 Proxime Accessit Award at Lesmahagow High School – Runner up to the Dux Award.
 • Dean’s List – 2016/17, 2017/18, 2018/19 & 19/20
+
 Experience
 • May 2014 – Work Experience within Lesmahagow High School Computing Department, responsibility being
 the creation of a presentation attended by a few hundred students and families.

@@ -5,4 +5,6 @@
 layout: home
 ---
 
+# Welcome
+
 See the below posts to look over completed and current projects and work.

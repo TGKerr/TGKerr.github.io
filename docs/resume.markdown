@@ -31,25 +31,24 @@ conflict resolution, as well as making use of Scrum and Git to manage the develo
 
 * Lesmahagow High School:
   - 2015/16 - Three A’s at Advanced Higher – English, Mathematics, and Physics.
-* 2014/15 - Six A’s at Higher – Computing, Physics, Mathematics, History, Graphic Communication,
+  - 2014/15 - Six A’s at Higher – Computing, Physics, Mathematics, History, Graphic Communication,
 and English.
-* 2013/14 - Six A’s at National 5for the above subjects.
+  - 2013/14 - Six A’s at National 5 for the above subjects.
 * University of St. Andrews – Currently in Fourth year of MSci (Hons) Programme:
   - Modules include – Object-Oriented Programming, Programming with Data, Computer Systems,
-Internet & the Web, Data Encoding, Databases, Operating Systems, Security & Distributed Systems.
-Awards & Achievements
-* 2016/17 Proxime Accessit Award at Lesmahagow High School – Runner up to the Dux Award.
-* Dean’s List – 2016/17, 2017/18, 2018/19 & 19/20
+Internet & the Web, Data Encoding, Databases, Operating Systems, Security, Distributed Systems,
+Computer Graphics, and AI fundamentals.
+* Awards & Achievements
+  - 2016/17 Proxime Accessit Award at Lesmahagow High School – Runner up to the Dux Award.
+  - Dean’s List – 2016/17, 2017/18, 2018/19 & 19/20
 
 
 ## Experience
 
-* May 2014 – Work Experience within Lesmahagow High School Computing Department, responsibility being
-the creation of a presentation attended by a few hundred students and families.
+* June 2019 to August 2019 – Intern software engineer at Canon Medical Research Edinburgh. Worked for
+three months on a personal project, within a team, related to medical imagery using C++.
 * June 2016 to Present – Years of experience acting as a carer for a younger brother suffering from learning
 difficulties, requiring patience, able to cope under potentially difficult circumstances, and being able to
 adapt under a somewhat unpredictable environment.
-* June 2019 to August 2019 – Intern software engineer at Canon Medical Research Edinburgh. Worked for
-three months on a personal project, within a team, related to medical imagery using C++.
 
 [linkedIn]: https://www.linkedin.com/in/tommy-kerr-720187174/
